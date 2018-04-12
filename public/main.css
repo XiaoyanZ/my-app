@@ -1,7 +1,1 @@
-#root {
-    background: yellow;
-    color:red;
-}
-#root {
-    font-size:30px;
-}
+#root{background:#ff0;color:red;font-size:30px}.hello{color:#ff0}.hello>.world{color:red}
